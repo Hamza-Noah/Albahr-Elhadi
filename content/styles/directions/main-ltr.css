@@ -1,0 +1,26 @@
+body {
+  direction: ltr;
+}
+
+header .main-header__uppperbar .social-icons {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+header .main-header__uppperbar .social-icons a {
+  margin-left: 10px;
+}
+
+header .main-header__uppperbar .contact-info a:first-child {
+  margin-left: 30px;
+}
+
+nav.navbar ul li:not(:last-child) {
+  margin-left: 68px;
+}
+
+.about-us .info p {
+  text-align: left;
+}
+/*# sourceMappingURL=main-ltr.css.map */

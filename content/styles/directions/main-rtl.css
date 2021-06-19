@@ -1,0 +1,22 @@
+body {
+    direction: rtl;
+}
+
+header .main-header__uppperbar .social-icons a {
+    margin-right: 10px;
+}
+
+header .main-header__uppperbar .contact-info a:first-child {
+    margin-right: 30px;
+}
+
+nav.navbar ul li:not(:last-child) {
+    margin-right: 68px;
+}
+
+.about-us .info p {
+    text-align: right;
+}
+
+
+/*# sourceMappingURL=main-rtl.css.map */

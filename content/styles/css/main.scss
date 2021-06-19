@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+@import "../sections/header";
+@import "../sections/about_us";
+@import "../sections/products";
+@import "../sections/contact_us";
+@import "../sections/footer";
+// Start Component
+// End Component
